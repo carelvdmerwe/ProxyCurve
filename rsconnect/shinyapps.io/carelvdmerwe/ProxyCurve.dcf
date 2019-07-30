@@ -1,0 +1,13 @@
+name: ProxyCurve
+title: ProxyCurve
+username:
+account: carelvdmerwe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1058346
+bundleId: 2276848
+url: https://carelvdmerwe.shinyapps.io/ProxyCurve/
+when: 1564495440.23464
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Implemented model v3.1 test.xlsm|Implemented model v3.1.xlsm
